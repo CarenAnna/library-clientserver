@@ -1,0 +1,12 @@
+username;password;address;email;dob;admin
+Sam;Tom;Mercury Lane 78;sammy@gmail.com;12-2-2001;False
+user12;pass123;Green Square 88;userrules@gmail.com;30-3-1999;False
+Hoi;Wachtwoord;Straat;hoi@gmail.com;20-4-2000;False
+petertje;mijnHuisdier;Koninginnegracht;peterhond@gmail.com;11-02-1976;False
+Rob;mars;Marktplein;robsuniverse@gmail.com;12-1-2006;False
+coolguy;england1990;Country Lane;coolesteva@gmail.com;20-6-1990;False
+peacelove;hippie66;Green Earth;lovetheearth@gmail.com;22-8-1966;False
+admin;librarybooks;Library;iamalibrarian@gmail.com;13-1-1980;True
+tomcat;cats4life;Memory Lane;catsarethebest@gmail.com;2-2-2010;False
+Domi;mcdonald12;Grote Markt;dominique@gmail.com;11-09-1999;False
+test;testtest;Straat;tes;26-08-1995;False
